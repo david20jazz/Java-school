@@ -1,3 +1,4 @@
+package com.mycom.javaex;
 class Student {
 	String name; // name
 	String mobile; // phone number
